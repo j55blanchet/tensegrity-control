@@ -1,0 +1,13 @@
+{
+    "name": "Rightward Gait v0.1",
+    "actuationStart": 6,
+    "actuationEnd": 26,
+    "stepDurationSecs": 2,
+    "gait": [
+        [1, 1, 1],
+        [0, 1, 1],
+        [1, 1, 1],
+        [1, 0, 0],
+        [1, 0, 1]
+    ]
+}
